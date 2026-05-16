@@ -1,14 +1,15 @@
 # Muhammad Faizan Ali
 
-Computer Science student building web applications, backend systems, and applied computer-vision projects.
+BSCS student at FAST NUCES Lahore, building web applications, backend systems, database projects, C++ games, and applied computer-vision projects.
 
 ## What I Work With
 
 - Frontend: React, Next.js, TypeScript, Tailwind CSS
 - Backend: Node.js, Express.js, REST APIs
-- Databases: MongoDB, Mongoose
+- Databases: MongoDB, Mongoose, Microsoft SQL Server
 - AI and Computer Vision: Python, OpenCV, YOLO, Ultralytics
-- Tools: Git, GitHub, Vercel
+- Programming: C++, C#, Python, JavaScript
+- Tools: Git, GitHub, Vercel, Visual Studio, Code::Blocks
 
 ## Featured Projects
 
@@ -33,6 +34,20 @@ Collaborative full-stack hostel management system for room allocation, student r
 - Repo: [danyalaziz696-dotcom/Hostel-Management-System](https://github.com/danyalaziz696-dotcom/Hostel-Management-System)
 - My module: Room Management, Allocation, and Student Records
 - Stack: React, Node.js, Express.js, MongoDB, Mongoose
+
+### Hostel Management System - SQL Server
+
+Database-focused hostel management system built with ASP.NET WebForms and Microsoft SQL Server, including stored procedures, triggers, views, functions, transactions, and role-based dashboards.
+
+- Repo: [FaizanAli7005/hostel-management-system-sql-server](https://github.com/FaizanAli7005/hostel-management-system-sql-server)
+- Stack: ASP.NET WebForms, C#, SQL Server, ADO.NET
+
+### Snake Game
+
+C++ SFML Snake game with endless, level, and custom modes, high scores, save/restore support, color selection, and custom wall placement.
+
+- Repo: [FaizanAli7005/snake-game-sfml](https://github.com/FaizanAli7005/snake-game-sfml)
+- Stack: C++, SFML, Code::Blocks
 
 ## Contact
 
