@@ -1,6 +1,6 @@
 # Muhammad Faizan Ali
 
-BSCS student at FAST NUCES Lahore, building web applications, backend systems, database projects, C++ games, and applied computer-vision projects.
+BSCS student at FAST NUCES Lahore and founder of Al Haq Solutions, building web applications, backend systems, database projects, C++ games, and applied computer-vision projects.
 
 ## What I Work With
 
@@ -15,8 +15,9 @@ BSCS student at FAST NUCES Lahore, building web applications, backend systems, d
 
 ### Al Haq Solutions
 
-Production catalogue website for unlocked routers, portable Wi-Fi devices, antennas, and accessories.
+Production catalogue website for Al Haq Solutions, my own telecom and internet-device brand for unlocked routers, portable Wi-Fi devices, antennas, and accessories.
 
+- Live: [alhaqsolutions.vercel.app](https://alhaqsolutions.vercel.app/)
 - Repo: [FaizanAli7005/al-haq-solutions](https://github.com/FaizanAli7005/al-haq-solutions)
 - Stack: Next.js, React, TypeScript, Tailwind CSS, Vercel
 
