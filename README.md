@@ -16,7 +16,6 @@ Computer Science student building web applications, backend systems, and applied
 
 Production catalogue website for unlocked routers, portable Wi-Fi devices, antennas, and accessories.
 
-- Live: [al-haq-solutions.vercel.app](https://al-haq-solutions.vercel.app)
 - Repo: [FaizanAli7005/al-haq-solutions](https://github.com/FaizanAli7005/al-haq-solutions)
 - Stack: Next.js, React, TypeScript, Tailwind CSS, Vercel
 
